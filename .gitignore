@@ -1,1 +1,8 @@
+# node
 node_modules/
+
+# IntelliJ IDEA
+.idea/
+
+# common
+*.log
